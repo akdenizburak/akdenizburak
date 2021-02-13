@@ -1,8 +1,8 @@
-<div style="background-color:blue;">
+<div style="background:blue;">
   <h1 align="center">Hi 👋, I'm Burak</h1>
  </div>
 
-<img align="center" width="85%" src="https://user-images.githubusercontent.com/65746583/107859528-2f4b5200-6e4b-11eb-8b58-1cacc39d8e89.gif"/>
+<p align="center"> <img width="75%" src="https://user-images.githubusercontent.com/65746583/107859528-2f4b5200-6e4b-11eb-8b58-1cacc39d8e89.gif"/> </p>
 
 
 <h3 align="center">A passionate software developer from Turkey</h3>
@@ -40,6 +40,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akdenizburak&show_icons=true&locale=en&layout=compact" alt="akdenizburak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akdenizburak&show_icons=true&locale=en" alt="akdenizburak" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akdenizburak&show_icons=true&locale=en" alt="akdenizburak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akdenizburak&" alt="akdenizburak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akdenizburak&" alt="akdenizburak" /></p>
