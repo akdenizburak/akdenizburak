@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 
-<div style="display: flex; justify-content: center; align:center;">
-  <img src="https://user-images.githubusercontent.com/65746583/107859528-2f4b5200-6e4b-11eb-8b58-1cacc39d8e89.gif">
-</div>
+<center><img src="https://user-images.githubusercontent.com/65746583/107859528-2f4b5200-6e4b-11eb-8b58-1cacc39d8e89.gif"></center>
 
 
 <h3 align="center">A passionate software developer from Turkey</h3>
