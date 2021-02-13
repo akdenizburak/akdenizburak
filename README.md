@@ -4,7 +4,7 @@
 <p align="center"> <img width="70%" src="https://user-images.githubusercontent.com/65746583/107860542-d4b4f480-6e50-11eb-82eb-0d7e47ca8716.gif"/> </p>
 
 
-<h3 align="center">A passionate <b>software developer</b> from Turkey</h3>
+<h3 align="center">A passionate **software developer** from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akdenizburak&label=Profile%20views&color=24b6ff&style=plastic" alt="akdenizburak" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [akdenizburak.medium.com](akdenizburak.medium.com)
 
-- 💬 Ask me about **C#, Python, Android Studio**
+- 💬 Ask me about **C#, Python, Kotlin, Android Studio, ASP.Net Core**
 
 - 📫 How to reach me **akdenizburakk7@gmail.com**
 
