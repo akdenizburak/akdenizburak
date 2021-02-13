@@ -1,3 +1,4 @@
+background:blue;
 <h1 align="center">Hi 👋, I'm Burak</h1>
 
 <img align="center" width="85%" src="https://user-images.githubusercontent.com/65746583/107859528-2f4b5200-6e4b-11eb-8b58-1cacc39d8e89.gif"/>
@@ -23,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akdenizburakk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akdenizburakk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14891629" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14891629" height="30" width="40" /></a>
