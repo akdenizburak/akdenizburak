@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<div class="tenor-gif-embed" data-postid="18018675" data-share-method="host" data-width="100%" data-aspect-ratio="1.4188034188034189"><a href="https://tenor.com/view/programmierer-haxker-programmer-gif-18018675">Programmierer Haxker GIF</a> from <a href="https://tenor.com/search/programmierer-gifs">Programmierer GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![DefiantLividElephantseal](https://user-images.githubusercontent.com/65746583/107859528-2f4b5200-6e4b-11eb-8b58-1cacc39d8e89.gif)
+
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akdenizburak&label=Profile%20views&color=24b6ff&style=plastic" alt="akdenizburak" /> </p>
