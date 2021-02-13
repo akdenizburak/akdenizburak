@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<iframe src='https://gfycat.com/ifr/DefiantLividElephantseal' frameborder='0' scrolling='no' allowfullscreen width='640' height='485'></iframe><p> <a href="https://gfycat.com/defiantlividelephantseal-programming-software-dev">via Gfycat</a></p>
+<img src="https://preview.redd.it/s46ahzc2csrx.gif?format=mp4&s=f3b338f6afc32078599d6cf29bb418e960d56966">
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akdenizburak&label=Profile%20views&color=24b6ff&style=plastic" alt="akdenizburak" /> </p>
