@@ -5,7 +5,7 @@
 
 
 <h3 align="center">A passionate software developer from Turkey</h3>
-
+<!--Burak Akdeniz-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akdenizburak&label=Profile%20views&color=24b6ff&style=plastic" alt="akdenizburak" /> </p>
 
 - 🔭 I’m currently working on **Bookshelf**
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/akdenizburakk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akdenizburakk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14891629" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14891629" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14891629" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14891629" height="30" width="40" /></a><!--Burak Akdeniz-->
 <a href="https://medium.com/@akdenizburak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akdenizburak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akdenizburakk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="akdenizburakk7" height="30" width="40" /></a>
 </p>
