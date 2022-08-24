@@ -8,13 +8,15 @@
 <!--Burak Akdeniz-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akdenizburak&label=Profile%20views&color=24b6ff&style=plastic" alt="akdenizburak" /> </p>
 
-- 🔭 I’m currently working on **Bookshelf**
+- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/akdenizburakk/](www.linkedin.com/in/akdenizburakk/)
 
 - 📝 I regularly write articles on [akdenizburak.medium.com](akdenizburak.medium.com)
+
+- 📝 I regularly write articles on [akdenizburak Notion](https://akdenizburak.notion.site/akdenizburak/React-Native-reniyorum-77793714d56f40d2b7f6fba490372edb)
 
 - 💬 Ask me about **C#, Python, Kotlin, Android Studio, ASP.Net Core**
 
